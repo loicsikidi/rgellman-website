@@ -17,6 +17,14 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  company = "Cabinet libéral"
+  company_url = ""
+  location = "Paris IX"
+  date_start = "2025-01-01"
+  date_end = ""
+
 [[experience]]
   company = "Fondation OPEJ"
   company_url = ""
@@ -31,7 +39,7 @@ date_format = "Jan 2006"
   company = "Fondation Saint-Jean de Dieu - Plateforme Reliances"
   company_url = ""
   location = "Paris"
-  date_start = "2019-01-01"
+  date_start = "2019-03-01"
   date_end = "2019-10-31"
   description = """Service de répit et d'aide aux aidants<br>
   Maison d'Accueil Spécialisée Paul De Magallon
