@@ -19,10 +19,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests: []
 
 education:
   courses:
@@ -55,16 +52,14 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+user_groups: []
 ---
 
 Psychologue clinicienne ayant une expérience institutionnelle auprès d'enfants, d'adolescents et d'adultes, je vous reçois à présent dans mon cabinet privé du 14ème arrondissement de Paris.
 
 Un premier entretien peut être l'occasion de se rencontrer, de mettre des mots sur ce qui vous fait souffrir, vous inquiète ou vous met en difficulté. Il permet de préciser ensemble les modalités d'un suivi psychologique.
 
-Les séances de 3/4 d'heures sont habituellement hebdomadaires. Cette régularité permet d'instaurer un climat de confiance et d'insuffler une dynamique propice à l'avancée du travail thérapeutique. 
+Les séances de 3/4 d'heure sont habituellement hebdomadaires. Cette régularité permet d'instaurer un climat de confiance et d'insuffler une dynamique propice à l'avancée du travail thérapeutique. 
 
 Ce dispositif s'adapte à votre situation particulière et notamment avec les enfants, où l'accueil des parents est favorisé dans un premier temps, puis à intervalle régulier afin de faire le point sur l'avancée du suivi.
 
