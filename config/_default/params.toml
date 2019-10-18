@@ -1,6 +1,9 @@
 # SITE SETUP
 # Documentation: https://sourcethemes.com/academic/
 
+# Content display in the navbar
+navbarTitle = "Rachel Gellman"
+
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `rose`, `strawberry`, `mr_robot`.
 color_theme = "mr_robot"
@@ -12,7 +15,7 @@ day_night = true
 font = "classic"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Psychologue clinicienne ayant une expérience institutionnelle auprès d’enfants, d’adolescents et d’adultes, je vous reçois à présent dans mon cabinet privé du 14ème arrondissement de Paris"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
