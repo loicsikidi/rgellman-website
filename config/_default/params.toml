@@ -67,9 +67,9 @@ address = """42 Rue la Bruyère, 75009 Paris<br>
 
 <b><i>Moyens de transport</i></b><br>
 
-Métro - Blanche ou Saint-Georges <img src="img/picto_metro_ligne-4.svg" style="width:1em;display: inline;" itemprop="image" alt="ligne 4">
+Métro - Blanche (ligne 2), Liège (ligne 13) ou Saint-Georges (ligne 12)
 
-Gare - Saint-Lazare <img src="img/picto_tram_ligne-t3a.svg" style="width:1em;display: inline;" itemprop="image" alt="tram T3a"><br>
+Gare - Saint-Lazare
 """
 
 tarif = """<b>Tarifs et remboursements</i></b><br>
