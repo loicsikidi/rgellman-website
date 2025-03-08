@@ -15,7 +15,7 @@ day_night = true
 font = "classic"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Psychologue clinicienne ayant une expérience institutionnelle auprès d’enfants, d’adolescents et d’adultes, je vous reçois à présent dans mon cabinet privé du 14ème arrondissement de Paris"
+description = "Psychologue clinicienne ayant une expérience institutionnelle auprès d’enfants, d’adolescents et d’adultes, je vous reçois à présent dans mon cabinet privé du 9ème arrondissement de Paris"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
@@ -61,21 +61,25 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "rachelgellman1@hotmail.com"
-phone = "06 37 44 04 91"
-address = """7 Square de Châtillon, 75014 Paris<br>
+#email = ""
+#phone = ""
+address = """42 Rue la Bruyère, 75009 Paris<br>
+
 <b><i>Moyens de transport</i></b><br>
-Métro - Alésia <img src="img/picto_metro_ligne-4.svg" style="width:1em;display: inline;" itemprop="image" alt="ligne 4"><br>
-Tramway - Jean Moulin <img src="img/picto_tram_ligne-t3a.svg" style="width:1em;display: inline;" itemprop="image" alt="tram T3a"><br>
-RER - Denfert-Rochereau <img src="img/picto_rer_ligne-b.svg" style="width:1em;display: inline;" itemprop="image" alt="tram T3a">
+
+Métro - Blanche ou Saint-Georges <img src="img/picto_metro_ligne-4.svg" style="width:1em;display: inline;" itemprop="image" alt="ligne 4">
+
+Gare - Saint-Lazare <img src="img/picto_tram_ligne-t3a.svg" style="width:1em;display: inline;" itemprop="image" alt="tram T3a"><br>
 """
 
 tarif = """<b>Tarifs et remboursements</i></b><br>
+
 <i style="font-size:0.8em;">Carte vitale non acceptée</i><br>
 <i style="font-size:0.8em;">Cartes bancaires non acceptées</i>
 
-Consultation de psychologie : 60€<br>
-Consultation à domicile: 75€
+Consultation de psychologie : 70€
+
+Consultation à domicile: 70€
 """
 
 

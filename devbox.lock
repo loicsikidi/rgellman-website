@@ -1,0 +1,11 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "hugo@0.72.0": {
+      "last_modified": "2020-06-22T05:34:49Z",
+      "resolved": "github:NixOS/nixpkgs/7b9448665e4be84c3f97becded3676e150f94694#hugo",
+      "source": "devbox-search",
+      "version": "0.72.0"
+    }
+  }
+}

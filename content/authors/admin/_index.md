@@ -55,18 +55,17 @@ email: ""
 user_groups: []
 ---
 
-Psychologue clinicienne ayant une expérience institutionnelle auprès d'enfants, d'adolescents et d'adultes, je vous reçois à présent dans mon cabinet privé du 14ème arrondissement de Paris.
+Psychologue clinicienne ayant une expérience institutionnelle et en cabinet privé auprès d'enfants, d'adolescents et d'adultes, je vous reçois au coeur du 9ème arrondissement de Paris.
 
-Un premier entretien peut être l'occasion de se rencontrer, de mettre des mots sur ce qui vous fait souffrir, vous inquiète ou vous met en difficulté. Il permet de préciser ensemble les modalités d'un suivi psychologique.
+Un premier entretien peut être l'occasion de se rencontrer, de mettre des mots sur ce qui vous fait souffrir ou vous met en difficulté. Il permet de préciser ensemble les modalités d'un suivi psychologique.
 
-Les séances de 3/4 d'heure sont habituellement hebdomadaires. Cette régularité permet d'instaurer un climat de confiance et d'insuffler une dynamique propice à l'avancée du travail thérapeutique. 
+Les séances d'une quarantaine de minutes sont habituellement hebdomadaires. Cette régularité permet d'instaurer un climat de confiance et d'insuffler une dynamique propice à l'avancée du travail thérapeutique.
 
-Ce dispositif s'adapte à votre situation particulière et notamment avec les enfants, où l'accueil des parents est favorisé dans un premier temps, puis à intervalle régulier afin de faire le point sur l'avancée du suivi.
+Ce dispositif sera adapté à votre situation particulière et notamment avec les enfants où l'accueil des parents est favorisé dans un premier temps, puis à intervalles réguliers afin de faire le point sur l'avancée du suivi.
 
-Je suis également sensible à l'accueil de personnes âgées ou vivant avec un handicap ayant travaillé dans ces domaines pendant plusieurs années.
+Je suis également sensible à l'accueil de personnes âgées ou vivant avec un handicap, ayant travaillé dans différents services médico-sociaux pendant plusieurs années. Aussi, je tiens à proposer des visites à domicile, ou des visioconférences, aux personnes qui ne peuvent pas se déplacer.
 
-Le cabinet est situé au rez-de-chaussée du 7 square de Châtillon, dans un passage privé, calme et verdoyant, propice à la détente et à la réflexion.
+Le cabinet est situé au Rez-De-Chaussée du 42 rue La Bruyère, dans une atmosphère chaleureuse, donnant sur une petite cour calme et verdoyante, propice à la détente et à la réflexion.
 
-J'y travaille en collaboration avec deux psychologues et une neuropsychologue aux spécialités complémentaires, en lien avec d'autres professionnels de santé du quartier.
-
+J'y travaille en collaboration avec deux psychologues, aux spécialités complémentaires, en lien avec d'autres professionnels de santé du quartier.
 Nous avons travaillé à faire de ce cabinet un lieu accueillant et confortable où vous pourrez aborder sereinement tous les sujets qui vous préoccupent.
