@@ -35,9 +35,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: calendar-check
-  icon_pack: fas
-  link: https://www.doctolib.fr/psychologue/paris/rachel-gellman
+## - icon: calendar-check
+##  icon_pack: fas
+##  link: https://www.doctolib.fr/psychologue/paris/rachel-gellman
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/rachel-gellman-597a6160/
@@ -55,7 +55,7 @@ email: ""
 user_groups: []
 ---
 
-Psychologue clinicienne ayant une expérience institutionnelle et en cabinet privé auprès d'enfants, d'adolescents et d'adultes, je vous reçois au coeur du 9ème arrondissement de Paris.
+Psychologue clinicienne ayant une expérience institutionnelle et en cabinet privé auprès d'enfants, d'adolescents et d'adultes, je vous reçois au coeur du 17ème arrondissement de Paris.
 
 Un premier entretien peut être l'occasion de se rencontrer, de mettre des mots sur ce qui vous fait souffrir ou vous met en difficulté. Il permet de préciser ensemble les modalités d'un suivi psychologique.
 
@@ -65,7 +65,7 @@ Ce dispositif sera adapté à votre situation particulière et notamment avec le
 
 Je suis également sensible à l'accueil de personnes âgées ou vivant avec un handicap, ayant travaillé dans différents services médico-sociaux pendant plusieurs années. Aussi, je tiens à proposer des visites à domicile, ou des visioconférences, aux personnes qui ne peuvent pas se déplacer.
 
-Le cabinet est situé au Rez-De-Chaussée du 42 rue La Bruyère, dans une atmosphère chaleureuse, donnant sur une petite cour calme et verdoyante, propice à la détente et à la réflexion.
+Le cabinet est situé au Rez-De-Chaussée du 93 rue Nollet, dans une atmosphère chaleureuse, donnant sur une petite cour calme et verdoyante, propice à la détente et à la réflexion.
 
 J'y travaille en collaboration avec deux psychologues, aux spécialités complémentaires, en lien avec d'autres professionnels de santé du quartier.
 Nous avons travaillé à faire de ce cabinet un lieu accueillant et confortable où vous pourrez aborder sereinement tous les sujets qui vous préoccupent.

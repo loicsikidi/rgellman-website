@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[experience]]
   company = "Cabinet libéral"
   company_url = ""
-  location = "Paris IX"
+  location = "Paris XVII"
   date_start = "2025-01-01"
   date_end = ""
 

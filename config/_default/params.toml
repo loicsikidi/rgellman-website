@@ -63,13 +63,11 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 #email = ""
 #phone = ""
-address = """42 Rue la Bruyère, 75009 Paris<br>
+address = """93 Rue Nollet, 75017 Paris<br>
 
 <b><i>Moyens de transport</i></b><br>
 
-Métro - Blanche (ligne 2), Liège (ligne 13) ou Saint-Georges (ligne 12)
-
-Gare - Saint-Lazare
+Métro - Pont Cardinet (ligne 14), Brochant (ligne 13) ou Rome (ligne 2)
 """
 
 tarif = """<b>Tarifs et remboursements</i></b><br>
@@ -88,9 +86,9 @@ Consultation à domicile: 70€
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-  {icon = "calendar-check", icon_pack = "fas", name = "Retrouvez-moi sur Doctolib", link = "https://www.doctolib.fr/psychologue/paris/rachel-gellman"},
-  ]
+## contact_links = [
+##  {icon = "calendar-check", icon_pack = "fas", name = "Retrouvez-moi sur Doctolib", link = "https://www.doctolib.fr/psychologue/paris/rachel-gellman"},
+##  ]
 
 # Display a map.
 # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
